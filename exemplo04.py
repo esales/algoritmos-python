@@ -1,3 +1,5 @@
+# Some os números de 1 a 100 e imprima o valor.
+
 soma = 0
 numero = 0
 

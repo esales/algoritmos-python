@@ -1,3 +1,8 @@
+# Faça um algoritmo que leia um conjunto de números (X) e imprima sua soma
+# (Soma) e sua média (Media). Admita que o valor 9999 é utilizado como sentinela
+# para fim de leitura.
+# Ex.: 1, 2, 3 => Soma=6 Media=2
+
 numero = 0
 soma = 0
 media = 0
